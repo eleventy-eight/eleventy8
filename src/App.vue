@@ -19,7 +19,7 @@ import TheWelcome from "./components/TheWelcome.vue";
     </header>
 
     <main>
-        <h1 class="text-3xl font-bold underline"></h1>
+        <h1 class="text-3xl font-bold underline">Eleventy8 Rebuild</h1>
         <TheWelcome />
     </main>
 </template>
