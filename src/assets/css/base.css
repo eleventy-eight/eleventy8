@@ -1,0 +1,21 @@
+:root {
+    --brand-primary: #f5061d;
+    --brand-secondary: #f3b43f;
+}
+body {
+    background-color: black;
+    background-image: url("../images/black-bg.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: "Open Sans";
+}
+body #app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+body #app .content {
+    flex: 1 0 auto;
+}
