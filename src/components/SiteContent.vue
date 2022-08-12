@@ -227,7 +227,7 @@ main .player-container .player-embed iframe {
     left: 0;
     width: 100%;
     height: 100%;
-    border: none;
+    border: 2px solid rgba(255, 255, 255, 0.2);
 }
 main footer {
     text-align: center;
