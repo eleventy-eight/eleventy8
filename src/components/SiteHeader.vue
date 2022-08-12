@@ -16,9 +16,8 @@
             <span>Three men in their 40s talk about... stuff </span>
         </h1>
         <p>
-            Justin brings wry observations and points out continuity errors,
-            Paul hosts and does the technical stuff, and Samir brings facts and
-            trivia.
+            Justin brings wry observations, Paul hosts and does the technical
+            stuff, and Samir brings facts and trivia.
         </p>
     </header>
 </template>
